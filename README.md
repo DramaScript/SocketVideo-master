@@ -1,3 +1,3 @@
-# MediaCodecDemo
 
-##此demo演示如何从Camera中获取实时画面，通过MediaCodec编码成H264格式的视频，并保存成H264视频文件
+
+##此demo演示如何从Camera中获取实时画面，通过MediaCodec编码成H264格式的视频，通过AudioRecord获取音频编码成AAC，然后通过Socket进行音视频传输，达到视频直播
